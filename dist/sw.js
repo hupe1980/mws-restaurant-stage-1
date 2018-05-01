@@ -156,7 +156,7 @@ self.__precacheManifest = [
   },
   {
     "url": "js/main.js",
-    "revision": "f694b7772ccd1274e8d65a9296a0f38b"
+    "revision": "7c7e9da2b5317a1e6c1e1036e486cd02"
   },
   {
     "url": "js/restaurant_info.js",
@@ -164,7 +164,7 @@ self.__precacheManifest = [
   },
   {
     "url": "restaurant.html",
-    "revision": "6c051fa5999a037bc755566872c00719"
+    "revision": "c3a7f38864532f657b23473e039ef440"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
