@@ -1,0 +1,21 @@
+{
+  "name": "mws-restaurant-stage-1",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build",
+    "prettier": "prettier --write src/**/*.js"
+  },
+  "devDependencies": {
+    "autoprefixer": "^8.4.1",
+    "browser-sync": "^2.23.7",
+    "cssnano": "^3.10.0",
+    "eslint": "^4.19.1",
+    "gulp": "^4.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-responsive": "^2.10.0",
+    "prettier": "^1.12.1",
+    "workbox-build": "^3.1.0"
+  }
+}
